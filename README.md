@@ -1,0 +1,2 @@
+# Kidney-Chronic-Disease-Prediction
+I have built a scalable classifier that predicts, the patients who are at risk of developing CKD using logistic regression in Python. I have developed a logistic regression model to predict probabilities for test data and interpret with the threshold obtained by analysis of ROC curve and accuracy measures. I have built ROC curves and Confusion matrix to calculate the accuracy of the model.
